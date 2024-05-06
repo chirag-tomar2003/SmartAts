@@ -39,7 +39,7 @@ def input_pdf_setup(uploaded_file):
 
 ## Streamlit App
 
-st.set_page_config(page_title="Resume Expert")
+st.set_page_config(page_title="JobFit Analyzer")
 
 st.header("JobFit Analyzer")
 st.subheader('This Application helps you in your Resume Review with help of GEMINI AI [LLM]')
@@ -134,7 +134,7 @@ elif submit5:
 
 footer = """
 ---
-#### Made By [Chirag Tomar](https://www.linkedin.com/in/chirag-tomar-b94a61229/)
+#### Made By [Chirag Tomar, Apoorv](https://www.linkedin.com/in/chirag-tomar-b94a61229/)
 For Queries, Reach out on [LinkedIn](https://www.linkedin.com/in/chirag-tomar-b94a61229/)  
 *Resume Expert - Making Job Applications Easier*
 """
